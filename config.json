@@ -1,0 +1,15 @@
+{
+  "vars": {},
+  "css": [
+    "print.less",
+    "type.less",
+    "code.less",
+    "grid.less",
+    "tables.less",
+    "forms.less",
+    "buttons.less",
+    "pager.less"
+  ],
+  "js": [],
+  "customizerUrl": "http://bootstrap-3.ru/customize.php?id=9afd73dcf3dfbf810f28e6831ed1f9b6"
+}

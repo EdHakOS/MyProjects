@@ -1,0 +1,9 @@
+$(document).ready(function() {
+	function wResize(){
+		$("header").css("height",$(window).height());//применяем такую же высоту как у окна но минимальная 640px
+	};
+	wResize();//вызываем функцию
+	$(window).resize(function(){
+		wResize()
+	})
+});
